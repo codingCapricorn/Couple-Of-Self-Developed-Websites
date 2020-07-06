@@ -1,5 +1,5 @@
 
-# Simple Website Building For Begineers
+# Simple Website Building For Beginner
 
 
 Building a website using HTML,CSS,wordpress,Jquery,Javascript.
