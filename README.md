@@ -5,4 +5,4 @@
 Built websites using HTML,CSS,wordpress,Jquery,Javascript.
 
 
-Download the "_____.zip" files and open "index" page of that particular file to see homepage of  website.
+Download the "_____.zip" files and open "index.html" page of that particular file to see homepage of  website.
