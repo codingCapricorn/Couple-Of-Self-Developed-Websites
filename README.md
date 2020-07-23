@@ -1,8 +1,8 @@
 
-# Simple Website Building For Beginner
+# Simple And Dynamic Website Building For Beginner
 
 
-Building a website using HTML,CSS,wordpress,Jquery,Javascript.
+Built websites using HTML,CSS,wordpress,Jquery,Javascript.
 
 
-Download the "website.zip" code and open "index" file to the website.
+Download the "_____.zip" files and open "index" page of that particular file to see homepage of  website.
