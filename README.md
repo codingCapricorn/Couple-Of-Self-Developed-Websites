@@ -3,6 +3,6 @@
 
 Built websites using HTML,CSS,wordpress,Jquery,Javascript,Bootstrap.
 
-# How to access websites ::::
+# How to access twebsites ::::
 
 Download and extract the "_____.zip" file of particular website and open "index.html" page of that particular file to see the homepage of that website.
