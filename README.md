@@ -1,7 +1,6 @@
 
 # Simple And Dynamic Websites For Beginner
 
-
 Built websites using HTML,CSS,wordpress,Jquery,Javascript,Bootstrap.
 
 # How to see websites ::::
